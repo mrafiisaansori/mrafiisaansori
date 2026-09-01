@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Rafi+%F0%9F%91%8B;Software+Engineer+%7C+8%2B+Tahun+Pengalaman;Full+Stack+%26+Enterprise+System+Integration;Selamat+datang+di+profil+GitHub+saya!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rafi+%F0%9F%91%8B;Software+Engineer+%7C+8%2B+Years+Experience;Full+Stack+%26+Enterprise+System+Integration;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 <br/>
 
@@ -13,15 +13,15 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-Saya seorang **Software Engineer** dengan pengalaman lebih dari **8 tahun** membangun aplikasi web enterprise, integrasi sistem, dan platform data-driven untuk kebutuhan bisnis.
+I'm a **Software Engineer** with over **8 years** of experience building enterprise web applications, system integrations, and data-driven platforms for business operations.
 
-- 🔭 Saat ini bekerja sebagai **Software Engineer** di **Integrasi Logistik Cipta Solusi** — mengembangkan aplikasi **P-Fuel** dan mengintegrasikannya dengan **SAP**.
-- 🌱 Berpengalaman mengelola sistem skala besar seperti **SIAKAD** (sistem akademik untuk berbagai perguruan tinggi di Indonesia).
-- 💬 Bisa diajak diskusi soal **system integration, database design,** dan **enterprise application development**.
-- 📍 Berbasis di **Surabaya, Jawa Timur, Indonesia**.
-- ⚡ Fun fact: sudah mengerjakan **10+ proyek portofolio**, dari fuel management hingga HRIS dan sistem rekrutmen.
+- 🔭 Currently working as a **Software Engineer** at **Integrasi Logistik Cipta Solusi** — developing the **P-Fuel** application and integrating it with **SAP**.
+- 🌱 Experienced in managing large-scale systems such as **SIAKAD** (an academic information system used by universities across Indonesia).
+- 💬 Happy to talk about **system integration, database design,** and **enterprise application development**.
+- 📍 Based in **Surabaya, East Java, Indonesia**.
+- ⚡ Fun fact: I've worked on **10+ portfolio projects**, ranging from fuel management to HRIS and recruitment platforms.
 
 ---
 
@@ -71,33 +71,31 @@ Saya seorang **Software Engineer** dengan pengalaman lebih dari **8 tahun** memb
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrafiisaansori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rafi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrafiisaansori&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mrafiisaansori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Rafi's GitHub stats" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mrafiisaansori&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrafiisaansori&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrafiisaansori&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
 ---
 
-### 🚀 Proyek Unggulan
+### 🚀 Featured Projects
 
-| Proyek | Deskripsi | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **[P-Fuel](https://mrafiisa.vercel.app)** — Fuel Management System | Pengajuan bahan bakar online, distribusi stok, integrasi SAP, dashboard analitik, realisasi fueling via IoT | `CodeIgniter` `PHP` `PostgreSQL` |
-| **APBS Integrated Service** | Sistem transaksi terintegrasi, workflow approval berjenjang, billing terhubung SAP | `.NET Core` `Oracle` `Tailwind CSS` |
-| **[Linkatalog.id](https://mrafiisa.vercel.app)** | Katalog online dengan checkout via WhatsApp | `Next.js` `Tailwind CSS` |
-| **Clinic Management System** | Pendaftaran pasien, rekam medis digital, integrasi BPJS, farmasi, billing | `CodeIgniter` `MySQL` |
-| **HRIS** | Manajemen data karyawan, presensi, payroll, dokumen | `CodeIgniter` `MySQL` |
-| **Point of Sales System** | Penjualan, inventori, manajemen pelanggan, laporan & analitik | `CodeIgniter` `MySQL` |
+| **[P-Fuel](https://mrafiisa.vercel.app)** — Fuel Management System | Online fuel request submission, stock distribution, SAP integration, analytics dashboard, real-time fueling realization via IoT | `CodeIgniter` `PHP` `PostgreSQL` |
+| **APBS Integrated Service** | Integrated transaction system, multi-level approval workflow, SAP-linked billing | `.NET Core` `Oracle` `Tailwind CSS` |
+| **[Linkatalog.id](https://mrafiisa.vercel.app)** | Online catalog with WhatsApp checkout | `Next.js` `Tailwind CSS` |
+| **Clinic Management System** | Patient registration, digital medical records, BPJS integration, pharmacy, billing | `CodeIgniter` `MySQL` |
+| **HRIS** | Employee data management, attendance, payroll, documents | `CodeIgniter` `MySQL` |
+| **Point of Sales System** | Sales processing, inventory, customer management, reporting & analytics | `CodeIgniter` `MySQL` |
 
-📁 Lihat proyek lainnya di **[portofolio saya »](https://mrafiisa.vercel.app)**
+📁 See more projects on **[my portfolio »](https://mrafiisa.vercel.app)**
 
 ---
 
-### 📫 Mari Terhubung
+### 📫 Let's Connect
 
 <div align="center">
 
@@ -112,5 +110,5 @@ Saya seorang **Software Engineer** dengan pengalaman lebih dari **8 tahun** memb
 </div>
 
 <div align="center">
-<sub>⚡ Terbuka untuk kolaborasi dan peluang baru di bidang enterprise system & software engineering.</sub>
+<sub>⚡ Open to collaboration and new opportunities in enterprise systems & software engineering.</sub>
 </div>
