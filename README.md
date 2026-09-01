@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrafiisa.vercel.app-2EA3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://mrafiisa.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafiisa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafiisa)
 [![Email](https://img.shields.io/badge/Email-rafiisaansori%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafiisaansori@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62%20821--8700--0882-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282187000882)
 
 </div>
 
@@ -31,37 +30,23 @@ I'm a **Software Engineer** with over **8 years** of experience building enterpr
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack" />
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,go,dotnet" alt="Backend stack" />
+
+<sub>Also: CodeIgniter</sub>
 
 **Database & Integration**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_Integration-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database stack" />
+
+<sub>Also: SQL Server · SAP Integration · REST API</sub>
 
 **Tools & Platform**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,linux" alt="Tools & platform" />
 
 </div>
 
